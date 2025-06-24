@@ -10,7 +10,7 @@ spec:
     source:
       repo: https://github.com/yogitaupadhyay/terraform-google-memorystore.git
       sourceType: git
-    version: 15.0.0
+    version: 16.0.0
     actuationTool:
       flavor: Terraform
       version: ">= 1.3"
